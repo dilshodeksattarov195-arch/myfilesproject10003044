@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasevelete",
+        "uuid": 4465548,
+        "checksum": "v2q2zs"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
